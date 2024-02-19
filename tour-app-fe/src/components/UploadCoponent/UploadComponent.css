@@ -1,0 +1,83 @@
+/* .containers{
+   display: flex;
+   width: 100%;
+ 
+   justify-content: center;
+ 
+}
+.form-container{
+   background-color:#da570b ;
+   padding: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+   height: 60vh;
+   border-radius: 10px;
+} */
+/* UploadComponent.css */
+
+.containers {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+ }
+ 
+ .form-container {
+   
+   width: 400px;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 8px;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+ 
+ .form-container div {
+   margin-bottom: 15px;
+ }
+ 
+ input,
+ select,
+ textarea {
+   width: 100%;
+   padding: 8px;
+   box-sizing: border-box;
+ }
+ 
+ button {
+   background-color:#da570b ;
+   color: white;
+   padding: 10px 15px;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   transition: 0.5s;
+ }
+ 
+ button:hover {
+   background-color:#bc4500 ;
+ }
+ 
+ /* You can add more styles as needed */
+ .toggle-container {
+   margin-top: 10px;
+ }
+ 
+ .toggle-button {
+   padding: 10px;
+   cursor: pointer;
+   background-color: #4caf50;
+   color: #fff;
+   border: none;
+   border-radius: 5px;
+   font-size: 14px;
+ }
+ 
+ .success-message {
+   margin-top: 10px;
+   padding: 10px;
+   background-color: #4caf50;
+   color: #fff;
+   border-radius: 5px;
+ }

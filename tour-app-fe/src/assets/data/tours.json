@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Marina Beach",
+    "city": "Chennai",
+    "address": "TamilNadu India",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "India's longest and world's second longest beach.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Besant Nagar Beach",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "peaceful and vibrant.Beautiful view of the Bay of Bengal.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Express Avenue Mall , Chennai",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu, India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": " The mall is built on an 8-acre site inside the historic Indian Express Estate and has four floors of retail space",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "VGP Marine Kingdom,chennai",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "With over 200 species of marine life from five aquatic zones, taking up 70,000 sq ft, and a deep learning experience",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "San Thome Church",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "The Santhome Church stands majestically tall and makes you pause and appreciate its beauty. Built in neo-Gothic style",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "T Nagar",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Thyagaraya Nagar, commonly known as T. Nagar, and historically known as East Mambalam, is a very affluent commercial and residential neighbourhood",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Guindy National Park",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Some of the species of animals protected here include Blackbuck, Jackal, Spotted Deer, Snake, Tortoise",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "EVP",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Evp Cinema Hall in Sembarambakkam, Chennai is a top player in the category Cinema Halls in the Chennai",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Phoenix Mall",
+    "city": "Chennai",
+    "address": "chennai-TamilNadu India",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "Phoenix Marketcity is a shopping mall developed by Phoenix Mills Limited located in Chennai, Tamil Nadu, India.,2nd largest mall in the city",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "VR Mall",
+    "city": "VR Mall",
+    "address": "chennai-TamilNadu India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "It is one of the bigger malls in Chennai, with a built-up area of 1,840,000 Sq-ft and a total retail space of 1,000,000 Sq-ft. The mall is one of the best malls for a reason and attracts people from all over the city daily.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
